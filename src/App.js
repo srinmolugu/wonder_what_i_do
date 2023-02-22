@@ -1,7 +1,8 @@
+import Header from "./views/components/header/Header";
 
 function App() {
   return (
-    <h3>Website</h3>
+    <Header/>
   );
 }
 
